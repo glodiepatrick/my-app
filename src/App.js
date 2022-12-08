@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Visit Propeller
+          Visit Propeller Website
         </a>
       </header>
     </div>
